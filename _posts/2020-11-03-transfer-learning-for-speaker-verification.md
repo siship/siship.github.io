@@ -5,7 +5,7 @@ subtitle: Posted by Mohammad Azharuddin Laskar
 tags: [transfer-learning, machine-learning]
 ---
 
-Speaker recognition is the task of recognizing a person’s identity from his or her voiceprint. It has been gaining much popularity among machine learning and speech researchers in today’s digital time. It is has become more relevant in recent times as digital technology strives to ease the day-to-day affairs of human lives. From access control systems to remote authentication, voice biometry finds applications across enterprises and institutions.
+Speaker recognition is the task of recognizing a person’s identity from his or her voiceprint. It has been gaining much popularity among machine learning and speech researchers in today’s digital time. It has become more relevant in recent times as digital technology strives to ease the day-to-day affairs of human lives. From access control systems to remote authentication, voice biometry finds applications across enterprises and institutions.
 
 With increased availability of data and powerful computing resources, researches have been drawn towards adopting deep learning techniques for addressing this problem. Deep learning techniques have, indeed, proven to be the best among all techniques available today. One such popular technique used for speaker verification involve extracting speaker embeddings from a TDNN (Time Delay Neural Network). These embeddings, popularly known as xvectors, are further modelled using a backend classifier like PLDA (Probabilistic Linear Discriminant Analysis) model to implement the system.
 
